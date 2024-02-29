@@ -1,0 +1,14 @@
+C:\Users\Momow\source\repos\OOPS 2\Using Serialization and Random Access files\bin\Debug\net8.0\Using Serialization and Random Access files.exe
+C:\Users\Momow\source\repos\OOPS 2\Using Serialization and Random Access files\bin\Debug\net8.0\Using Serialization and Random Access files.deps.json
+C:\Users\Momow\source\repos\OOPS 2\Using Serialization and Random Access files\bin\Debug\net8.0\Using Serialization and Random Access files.runtimeconfig.json
+C:\Users\Momow\source\repos\OOPS 2\Using Serialization and Random Access files\bin\Debug\net8.0\Using Serialization and Random Access files.dll
+C:\Users\Momow\source\repos\OOPS 2\Using Serialization and Random Access files\bin\Debug\net8.0\Using Serialization and Random Access files.pdb
+C:\Users\Momow\source\repos\OOPS 2\Using Serialization and Random Access files\obj\Debug\net8.0\Using Serialization and Random Access files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Momow\source\repos\OOPS 2\Using Serialization and Random Access files\obj\Debug\net8.0\Using Serialization and Random Access files.AssemblyInfoInputs.cache
+C:\Users\Momow\source\repos\OOPS 2\Using Serialization and Random Access files\obj\Debug\net8.0\Using Serialization and Random Access files.AssemblyInfo.cs
+C:\Users\Momow\source\repos\OOPS 2\Using Serialization and Random Access files\obj\Debug\net8.0\Using Serialization and Random Access files.csproj.CoreCompileInputs.cache
+C:\Users\Momow\source\repos\OOPS 2\Using Serialization and Random Access files\obj\Debug\net8.0\Using Serialization and Random Access files.dll
+C:\Users\Momow\source\repos\OOPS 2\Using Serialization and Random Access files\obj\Debug\net8.0\refint\Using Serialization and Random Access files.dll
+C:\Users\Momow\source\repos\OOPS 2\Using Serialization and Random Access files\obj\Debug\net8.0\Using Serialization and Random Access files.pdb
+C:\Users\Momow\source\repos\OOPS 2\Using Serialization and Random Access files\obj\Debug\net8.0\Using Serialization and Random Access files.genruntimeconfig.cache
+C:\Users\Momow\source\repos\OOPS 2\Using Serialization and Random Access files\obj\Debug\net8.0\ref\Using Serialization and Random Access files.dll
