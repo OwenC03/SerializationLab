@@ -1,1 +1,3 @@
 # SerializationLab
+code was designed to write a set responce onto a txt file using the serilization method as an introduction to it and how it works before deserilizing it and printing it in the outcome table.... 
+it then takes another output and addeds it to the txt file before taking the word and finding the letter in the first, middle, and last position and displaying which letter they are
